@@ -9,7 +9,7 @@ Using strong technical and business skills to successfully develop projects with
 
 ## Top qualifications
 
-1. Practical technical experience (SQL, Web Software Development – PHP, API, SOAP/REST, CSS, JavaScript, HTML5)
+1. Practical technical experience (SQL, Web Software Development – PHP, API, XML, SOAP/REST, CSS, JavaScript, HTML5)
 2. Project/Product Management (8 years of experience; PMP; Agile/SCRUM – Certified Scrum Master, Certified Product Owner)
 3. Data, Marketing and Customer Analysis (Excel, R, Azure ML; Adobe Analytics, Webtrends; UX, A/B Testing, Tealeaf, Glassbox)
 
